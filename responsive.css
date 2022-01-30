@@ -1,0 +1,28 @@
+.main-js {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+
+.web-app-show {
+        width: 90vw;
+}
+
+.main-native {
+    display: flex;
+    flex-direction: column-reverse;
+}
+@media screen and (max-width: 702px) {
+    .description {
+
+        font-size: 1.1rem;
+    }
+    .main-left .review {
+        font-size: 1rem;
+        width: 25rem;
+    }
+    .main-right-go .const{
+        font-size: 1rem;
+        width: 25rem;
+    }
+}
