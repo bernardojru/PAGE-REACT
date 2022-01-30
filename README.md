@@ -1,3 +1,3 @@
 # UNIVERSO-REACT
- Um pouco sobre o universo React
-<a href="https://bernardojru.github.io/PAGE-REACT/">ver site</a>
+ Um pouco sobre o universo React,
+<a href="https://bernardojru.github.io/PAGE-REACT/">Ter acesso.</a>
